@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Facts are fun
 
-But in all actuality you can reach out me using my e-mail account: <a src='aadi.nair20703@gmail.com'>email</a>
+But in all actuality you can reach out me using my e-mail account: **aadi.nair20703@gmail.com**
 
