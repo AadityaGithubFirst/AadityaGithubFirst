@@ -11,7 +11,7 @@ Here are some highlights:
 -   👯 I’m looking to collaborate on projects involving data analysis, machine learning, and deep learning.
 -   💬 Ask me about data analysis, machine learning, deep learning, or my experience with optimizing data workflows.
 -   📫 How to reach me:
-    -   Email: aadityah@andrew.cmu.edu
+    -   Email: aadi.nair20703@gmail.com
     -   LinkedIn: [www.linkedin.com/in/aadityahnair](www.linkedin.com/in/aadityahnair) 
 -   😄 Pronouns: He/Him
 
